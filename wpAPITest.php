@@ -7,7 +7,7 @@ $accessToken = "addaquiseutoken"; // Substitua pelo seu token de acesso.
 
 $data = array(
     "messaging_product" => "whatsapp",
-    "to" => "5541987493925", // Substitua pelo número do destinatário.
+    "to" => "NUMEROCADASTRADO", // Substitua pelo número do destinatário.
     "type" => "template",
     "template" => array(
         "name" => "hello_world",
